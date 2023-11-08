@@ -1,2 +1,1 @@
-# fanzha
-http://182.43.124.6/
+# 404 Pages for https://www.panxuc.com/
